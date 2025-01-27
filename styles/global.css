@@ -12,9 +12,17 @@
     --shape-transparency: rgba(0, 0, 0, 0.56);
     --text-color-primary: #313131;
     --text-color-secondary: #6C6C6C;
+    
+    /* Definindo as fontes */
+    --font-family: "Poppins", serif;
+    --text-h1: bold 32px/125% var(--font-family);
+    --text: 16px/170% var(--font-family);
+    --text-md: 14px/170% var(--font-family);
+    --text-sm: 12px/170% var(--font-family);
 }
 
 body {
     color: var(--text-color-secondary);
     background-color: var(--background-color);
 }
+
