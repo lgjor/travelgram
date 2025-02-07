@@ -18,7 +18,9 @@ Projeto desenvolvido a partir do curso Fullstack da <a href="https://www.rockets
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%" alt="Travelgram">
+  <a href="https://lgjor.github.io/travelgram/" target="_blank">
+    <img src=".github/preview.jpg" width="100%" alt="Travelgram">
+  </a>
 </p>
 
 ## 🚀 Tecnologias
